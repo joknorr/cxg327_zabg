@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<visu-ini-file>
+	<compression>true</compression>
+	<best-fit>false</best-fit>
+	<keypad-hide-special-chars>false</keypad-hide-special-chars>
+	<hide-min-max>false</hide-min-max>
+	<download-id>433101</download-id>
+	<use-time-formats>false</use-time-formats>
+	<time-format>HH':'mm':'ss</time-format>
+	<date-format>dd'-'MM'-'yyyy</date-format>
+	<dt-format><![CDATA[dd'-'MM'-'yyyy HH':'mm':'ss]]></dt-format>
+	<variablelist>
+		<variable name="CurrentPasswords[0]">4,22491,21,8</variable>
+		<variable name="CurrentPasswords[1]">4,22512,21,8</variable>
+		<variable name="CurrentPasswords[2]">4,22533,21,8</variable>
+		<variable name="CurrentPasswords[3]">4,22554,21,8</variable>
+		<variable name="CurrentPasswords[4]">4,22575,21,8</variable>
+		<variable name="CurrentPasswords[5]">4,22596,21,8</variable>
+		<variable name="CurrentPasswords[6]">4,22617,21,8</variable>
+		<variable name="CurrentPasswords[7]">4,22638,21,8</variable>
+		<variable name=".CurrentUserLevel">4,22489,2,1</variable>
+		<variable name=".CurrentVisu">4,22241,41,8</variable>
+		<variable name=".CurrentCaller">4,22282,41,8</variable>
+		<variable name=".CurrentLanguage">4,22323,41,8</variable>
+		<variable name=".CurrentUsername">4,22405,41,8</variable>
+		<variable name=".CurrentPassword">4,22446,41,8</variable>
+		<variable name=".CurrentUserID">4,22487,2,1</variable>
+		<variable name=".CurrentWriteAccessClientId">4,22661,4,5</variable>
+	</variablelist>
+	<receiptlist/>
+	<bitmap-list/>
+</visu-ini-file>
