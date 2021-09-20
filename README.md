@@ -1,5 +1,6 @@
 # ZIEHL-ABEGG CXG-327(A)NE-R with ZAbluegalaxy integration
 
+## Filetransfer 
 To install this files you need the chiptool utility. Open a FTP connection with the CXG-327(A)NE-R device.
 Please backup all files before you you replace them. Then copy the follwing files from the to_drive-A folder to drive A: of the device:
 - the complete CXG-428ANE folder and its content
