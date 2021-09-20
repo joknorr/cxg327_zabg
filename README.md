@@ -15,7 +15,7 @@ or often the router address intself is a good choice.
 [DNS]    
 NAME_SERVER1=217.0.43.129
 
-## Rebbot
+## Reboot
 After copying the files the controller must be rebooted and if a static IP address is used, the IP address must be configured again.
 
 ## Create ZAbluegalaxy device
