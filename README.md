@@ -25,7 +25,7 @@ ZAbluegalaxy can only create fans that are available in the ZAbluegalaxy device 
 and enter the partnumber in CXG327_PPN under the ZABG Section in the chip.ini.
 
 [ZABG]    
-CXG327_PPN=ZA-1stAxial  ; replace ZA-1stAxial by your fans partnumber
+CXG327_PPN=ZA-188188
 
 ## Reboot
 After copying the files the controller must be rebooted and if a static IP address is used, the IP address must be configured again.
