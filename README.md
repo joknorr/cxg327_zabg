@@ -1,5 +1,9 @@
 # ZIEHL-ABEGG CXG-327(A)NE-R with ZAbluegalaxy integration
 
+## RTOS Version
+Please check the RTOS version with the chiptool utility. RTOS must be version 2.05 or higher. Otherwise update the RTOS with the version
+in this REPO.  
+
 ## Filetransfer 
 To install this files you need the chiptool utility. Open a FTP connection with the CXG-327(A)NE-R device.
 Please backup all files before you you replace them. Then copy the follwing files from the to_drive-A folder to drive A: of the device:
